@@ -1,0 +1,350 @@
+# Copyright (C) 2020 XcooBee
+# This file is distributed under the same license as the XcooBee package.
+msgid ""
+msgstr ""
+"Project-Id-Version: XcooBee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-xcoobee-sar-admin.php:38, includes/admin/class-xcoobee-sar-admin.php:39
+msgid "SAR"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:44
+msgid "XcooBee SAR Addon"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:45
+msgid "Automate subject access request (SAR) Lifecycle in WordPress. You can embed a button on your privacy policy or anywhere else via shortcode user can click to start the process. User can, then, use self-service SAR requests. You will have reports on the XcooBee network to prove your correct GDPR compliance actions."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:54
+msgid "Setup"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:55
+msgid "In order for the XcooBee Subject Access Request (SAR) addon to receive and respond to SAR requests, you will need to:"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:57
+msgid "Provide valid API credentials in the <em>General</em> tab."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:58
+msgid "Set the default callback URL to <code>%1$s</code>. You can set this from the <a target=\"_blank\" href=\"%2$s\">Consent Options</a> page."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:60
+msgid "Perform Checks"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:66
+msgid "SAR Settings"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:69
+msgid "Success Modal Title"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:72
+msgid "Title of the success modal. Leave this empty to use the default text."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:76
+msgid "Success Modal Message"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:79
+msgid "Message of the success modal. Leave this empty to use the default text."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:88
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:92
+msgid "Enable SAR Button"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:97
+msgid "Enable this to display a SAR button on your Privacy Policy page."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:101
+msgid "Button Position"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:104
+msgid "Top"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:105
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:110
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:113
+msgid "Left"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:114
+msgid "Center"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:115
+msgid "Right"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:120
+msgid "Button Size"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:123
+msgid "Small"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:124
+msgid "Medium"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:125
+msgid "Large"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:130
+msgid "Button Text"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:136
+msgid "Button Alt. Text"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:147
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:148
+msgid "Use the following shortcode to display a SAR button on your site."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:151
+msgid "Renders a SAR button."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:158
+msgid "Attribute"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:159
+msgid "Description"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:160
+msgid "Default"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:161, includes/admin/views/settings-sar.php:197
+msgid "Example"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:167
+msgid "Size of the button (<code>small</code>, <code>medium</code> or <code>large</code>)."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:173
+msgid "Alternate text for the button."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:174, includes/class-xcoobee-sar-shortcodes.php:39
+msgid "Request Personal Data"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:175, includes/admin/views/settings-sar.php:181
+msgid "Your text"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:179
+msgid "Alternate text for the button on hover."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:180
+msgid "Get your personal data via XcooBee!"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:185
+msgid "Additional CSS classes to button."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:191
+msgid "Custom HTML Id for the button."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:197
+msgid "Copy"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:205
+msgid "Requests"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:206
+msgid "The data requests received and their status."
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:210
+msgid "Requester"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:211
+msgid "XcooBee Id"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:212
+msgid "Last Updated"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:213
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:231
+msgid "Failed"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:235
+msgid "Delivered"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:239
+msgid "Seen"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:243
+msgid "Read"
+msgstr ""
+
+#: includes/admin/views/settings-sar.php:247
+msgid "Sent"
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:81, includes/class-xcoobee-sar-request.php:156
+msgid "Subject Access Request"
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:204
+msgid "Missing request ID."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:211
+msgid "Missing exporter index."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:218
+msgid "Missing page index."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:225
+msgid "Invalid request ID."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:235
+msgid "Invalid request type."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:243
+msgid "A valid email address must be given."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:253
+msgid "An exporter has improperly used the registration filter."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:262
+msgid "Exporter index cannot be negative."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:269
+msgid "Exporter index is out of range."
+msgstr ""
+
+#: includes/class-xcoobee-sar-request.php:276
+msgid "Page index cannot be less than one."
+msgstr ""
+
+#. translators: %s: exporter array index
+#: includes/class-xcoobee-sar-request.php:288
+msgid "Expected an array describing the exporter at index %s."
+msgstr ""
+
+#. translators: %s: exporter array index
+#: includes/class-xcoobee-sar-request.php:296
+msgid "Exporter array at index %s does not include a friendly name."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: includes/class-xcoobee-sar-request.php:306
+msgid "Exporter does not include a callback: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: includes/class-xcoobee-sar-request.php:313
+msgid "Exporter callback is not a valid callback: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: includes/class-xcoobee-sar-request.php:331
+msgid "Expected response as an array from exporter: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: includes/class-xcoobee-sar-request.php:338
+msgid "Expected data in response array from exporter: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: includes/class-xcoobee-sar-request.php:345
+msgid "Expected data array in response array from exporter: %s."
+msgstr ""
+
+#. translators: %s: exporter friendly name
+#: includes/class-xcoobee-sar-request.php:352
+msgid "Expected done (boolean) in response array from exporter: %s."
+msgstr ""
+
+#: includes/class-xcoobee-sar-shortcodes.php:40
+msgid "Get your personal data via XooBee!"
+msgstr ""
+
+#: includes/class-xcoobee-sar-shortcodes.php:73
+msgid "You need to provide valid API credentials."
+msgstr ""
+
+#: xcoobee-sar.php:99
+msgid "XcooBee SAR requires XcooBee for WordPress to be installed and active. You can download %s here."
+msgstr ""
+
+#: xcoobee-sar.php:145
+msgid "View XcooBee Subject Access Request settings"
+msgstr ""
+
+#: xcoobee-sar.php:145
+msgid "Settings"
+msgstr ""
+
+#: xcoobee-sar.php:228
+msgid "Request Received"
+msgstr ""
+
+#: xcoobee-sar.php:229
+msgid "Thanks for your submission! We have received your request and will get back to you soon."
+msgstr ""
